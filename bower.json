@@ -1,0 +1,23 @@
+{
+  "name": "feather-icons-sass",
+  "version": "0.0.1",
+  "authors": [
+    "Denis Ciccale <dciccale@gmail.com>"
+  ],
+  "description": "feather icons sass",
+  "main": "feather.css",
+  "keywords": [
+    "feather",
+    "icons",
+    "sass"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dciccale/feather-icons-sass",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

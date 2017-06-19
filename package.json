@@ -1,0 +1,20 @@
+{
+  "name": "feather-icons-sass",
+  "version": "1.0.0",
+  "description": "feather icons in sass",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dciccale/feather-icons-sass.git"
+  },
+  "keywords": [
+    "feather",
+    "icons",
+    "sass"
+  ],
+  "author": "Cole Bemis <cole@colebemis.com> (http://colebemis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dciccale/feather-icons-sass/issues"
+  },
+  "homepage": "https://github.com/dciccale/feather-icons-sass#readme"
+}
